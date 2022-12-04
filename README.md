@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TheDev024
+- 👋 Hi, I’m <a href="https://linkedin.com/in/thedev024">@TheDev024</a>
 - 👀 I’m interested in Android development with Kotlin
 - 🌱 I’m currently learning Android development, Desktop development, Python
 - 💞️ I’m looking to collaborate on Mobile application projects
